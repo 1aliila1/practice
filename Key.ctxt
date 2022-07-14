@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Key
+comment1.params=
+comment1.target=Key()
+comment10.params=object
+comment10.target=boolean\ equals(java.lang.Object)
+comment11.params=
+comment11.target=int\ hashCode()
+comment12.params=that
+comment12.target=int\ compareTo(Key)
+comment2.params=id\ cipher\ day
+comment2.target=Key(int,\ java.lang.String,\ int)
+comment3.params=id
+comment3.target=void\ setId(int)
+comment4.params=cipher
+comment4.target=void\ setCipher(java.lang.String)
+comment5.params=day
+comment5.target=void\ setDay(int)
+comment6.params=
+comment6.target=int\ getId()
+comment7.params=
+comment7.target=java.lang.String\ getCipher()
+comment8.params=
+comment8.target=int\ getDay()
+comment9.params=
+comment9.target=java.lang.String\ toString()
+numComments=13
